@@ -20,7 +20,6 @@ ui.on("line", async (input) => {
         messages: convo
     })
     convo.push(res.choices[0].message);
-    console.log(res.choices[0].message.content);
+    console.log(": ",res.choices[0].message.content);
     ui.prompt();
 })
-
