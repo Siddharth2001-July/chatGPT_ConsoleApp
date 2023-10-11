@@ -1,5 +1,5 @@
 # ChatGPT Console Application
-ChatGPT Console Application
+ChatGPT Console Application with a theme of Harry Potter and the world of Hogwards.
 
 To use this application follow the following steps : 
 
