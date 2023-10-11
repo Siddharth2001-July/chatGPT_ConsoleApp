@@ -21,6 +21,6 @@ ui.on("line", async (input) => {
     })
     convo.push(res.choices[0].message);
     console.log(res.choices[0].message.content);
-    ui.prompt()
+    ui.prompt();
 })
 
